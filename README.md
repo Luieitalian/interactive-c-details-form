@@ -20,8 +20,8 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://your-solution-url.com)
+- [Live Site URL](https://luieitalian.github.io/interactive-c-details-form/)
 
 ## Built with
 
@@ -35,7 +35,7 @@ I am proud of the function below that I wrote ^.^
 It takes the user input and returns the formatted value
 
 ### e.g. :
-- ---------------------
+- -------------------------------
 - input value = "123"  
 - formatted value = "1230 0000 0000 0000"
 
@@ -55,8 +55,6 @@ function getCardnoFormat(value){
 ## Useful resources
 
 - [Border Gradient Resource](https://codyhouse.co/nuggets/css-gradient-borders) - This resource helped me make soft input borders with gradient. I'd recommend this site to anyone who is trying to learn about borders and stuff.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
 
 ## Author
 
