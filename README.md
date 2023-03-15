@@ -14,7 +14,7 @@ Users should be able to:
 - See hover, active, and focus states for interactive elements on the page
 
 ## Screenshot
-- There is layouts for Tablets, Desktops and Mobile devices.
+- There are layouts for Tablets, Desktops and Mobile devices.
 
 ![](./screenshot.png)
 
